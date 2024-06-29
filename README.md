@@ -12,7 +12,7 @@ yarn serve
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build 1 2 3 4
 ```
 
 ### Lints and fixes files
